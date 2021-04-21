@@ -1,0 +1,9 @@
+
+Name : Gaurav Baisware
+
+Computer Vision and Internet of Things
+Intern at The Sparks Foundation
+
+Batch : April 21
+
+Task2 : Colour Identification in Images
